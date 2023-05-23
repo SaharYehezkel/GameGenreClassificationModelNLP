@@ -8,4 +8,4 @@ This project utilizes the power of Natural Language Processing (NLP) to tackle t
 we aim to develop a genre classification system that can effectively analyze game descriptions or summaries and assign them to the appropriate genres. In addition,
 by scraping and crawling we got a lot of data to present in plots and get some information about our data.
 
-Link to the printed project as PDF -> [embed]https://github.com/SaharYehezkel/GameGenreClassificationModelNLP/blob/main/Project.pdf[/embed]
+Link to the printed project as PDF -> https://github.com/SaharYehezkel/GameGenreClassificationModelNLP/blob/main/Project.pdf
